@@ -1,0 +1,44 @@
+#id01{
+    color: mediumseagreen;
+}
+
+.zagolovok_col{
+    color: blue;
+}
+.color1{
+    color: brown;
+    font-size: 110%;
+}
+.leftimg{
+    float:left; 
+    margin: 7px 7px 7px 0; 
+}
+.color2{
+    color: maroon;
+}
+#id1{
+    color: darkred;
+    font-size: 125%
+}
+#id2{
+    color: forestgreen;
+    font-size: 150%
+}
+#id3{
+    color: mediumseagreen;
+    font-size: 125%
+}
+#id4{
+    color: orangered;
+    font-size: 150%
+}
+#id5{
+    font-size:130%
+}
+BODY {
+    background:url(../img/2.jpg)
+   } 
+#id6{
+    font-size:130%
+}
+
